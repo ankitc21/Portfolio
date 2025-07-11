@@ -10,6 +10,7 @@ Welcome to my personal portfolio repository! This space showcases a variety of m
 - Supervised & Unsupervised Learning
 - Classification, Regression, Clustering
 - Model Evaluation and Optimization
+- End to End ML projects with ML pipeline (coming soon)
 
 ### 🐍 Python Tech Stacks
 - Data Analysis: `pandas`, `numpy`
